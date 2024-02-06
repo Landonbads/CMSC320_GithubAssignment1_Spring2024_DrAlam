@@ -1,0 +1,2 @@
+Why are you interested in taking CMSC320?
+I want to learn more practical skills instead of theory such as SQL and popular python data manipulation libraries
